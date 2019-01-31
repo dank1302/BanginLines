@@ -1,0 +1,67 @@
+.jumbotron{
+    width: 1200px;
+    text-align: center;
+    margin:0 auto;
+    background-color: #0d2950;
+    color: #ffff;
+}
+.danPicks{
+    margin-left: 300px;
+}
+.tommyPicks{
+    margin-left: 950px;
+}
+.pootsPicks{
+    margin-left: 300px;
+}
+.craigPicks{
+    margin-left: 950px;
+}
+.phizPicks{
+    margin-left: 300px;
+}
+.cardPicks{
+    margin-left: 950px;
+}
+body{
+    background-color: #c0c0bf;
+}
+.page-footer{
+    background-color: #0d2950;
+}
+
+.tronBackground{
+    background-color: #fff;
+}
+.copyright{
+    font-weight: bold;
+    color: #000;
+    padding-top: 10px;
+    height: 40px;
+    background-color: #c0c0bf;
+}
+.parallax-container{
+    height: 580px; /* set height of parallax container */
+}
+
+#contact{
+    color: #0d2950;
+    font-weight: bold;
+}
+#contactContainer{
+    background-color: #fff;
+    margin-bottom: 100px;
+}
+.conInfo{
+    color: #0d2950;
+    text-align: left;
+}
+.contact__form-textarea{
+    height: 300px;
+}
+.pickCycle{
+    margin-left: 40px;
+}
+.weekNav{
+    float:right;
+}
